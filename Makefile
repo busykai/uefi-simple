@@ -25,3 +25,6 @@ OVMF.fd:
 clean:
 	rm -f main.efi OVMF.fd
 	rm -rf image
+
+install:
+
