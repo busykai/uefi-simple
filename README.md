@@ -20,3 +20,11 @@ Just typing the following command will compile and run the UEFI application on Q
 
 The Makefile will download the current latest version of UEFI firmware (OVMF-X64-r15214.zip).
 If you can't download it, find the latest version from http://tianocore.sourceforge.net/wiki/OVMF
+
+
+License
+-------
+
+This project does not have clear licensing terms. File `COPYING` must be
+disregarded.
+
